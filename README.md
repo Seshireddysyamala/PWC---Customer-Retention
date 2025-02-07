@@ -3,7 +3,7 @@
 ## 📌 Overview
 This project focuses on analyzing **customer retention and churn patterns** for a telecom company using **Power BI**. The dashboard provides insights into churn trends, key risk factors, and actionable strategies to reduce customer attrition.
 
-## Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiNjQxYWIyZTAtYmQ1Yi00ZmU2LTkwMTYtNmVhNWE5NDdjNjU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+## Dashboard Link : https://shorturl.at/WLhLc
 
 ## 📁 Files in this Repository
 - **Customer Retention.pbix** - Power BI dashboard for customer churn analysis.
